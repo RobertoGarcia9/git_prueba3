@@ -1,3 +1,4 @@
+//HHJIIIIIIIIII
 Algoritmo calculos_de_areas
 	Repetir
 		//pintar menu
